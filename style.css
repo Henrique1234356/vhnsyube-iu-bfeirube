@@ -1,0 +1,20 @@
+  body
+  {
+    color: white;
+    background: rgb(50, 174, 145);
+  }
+  .heading
+  {
+    width: 80%;
+    font-size: 22px;
+  }
+  #camera 
+  {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px; 
+  }
+  .nameOfObjects, #resulteOBJ  , #resultePRE
+  {
+    color: rgb(69, 69, 64);
+  }
